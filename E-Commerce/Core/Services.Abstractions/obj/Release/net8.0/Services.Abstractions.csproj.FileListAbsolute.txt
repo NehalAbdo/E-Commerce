@@ -1,0 +1,16 @@
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.deps.json
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Services.Abstractions.pdb
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Shared.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\bin\Release\net8.0\Shared.pdb
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.csproj.AssemblyReference.cache
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.AssemblyInfoInputs.cache
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.AssemblyInfo.cs
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.sourcelink.json
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.E74F1EB6.Up2Date
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\refint\Services.Abstractions.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\Services.Abstractions.pdb
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Core\Services.Abstractions\obj\Release\net8.0\ref\Services.Abstractions.dll

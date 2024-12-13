@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\bin\Debug\net6.0\E-Commerce.Core.deps.json
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\bin\Debug\net6.0\E-Commerce.Core.dll
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\bin\Debug\net6.0\E-Commerce.Core.pdb
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.AssemblyInfo.cs
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.dll
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\refint\E-Commerce.Core.dll
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\E-Commerce.Core.pdb
+C:\Users\asus\source\repos\E-Commerce\E-Commerce.Core\obj\Debug\net6.0\ref\E-Commerce.Core.dll

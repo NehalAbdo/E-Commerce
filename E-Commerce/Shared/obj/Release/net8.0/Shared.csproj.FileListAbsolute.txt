@@ -1,0 +1,12 @@
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\bin\Release\net8.0\Shared.deps.json
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\bin\Release\net8.0\Shared.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\bin\Release\net8.0\Shared.pdb
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.AssemblyInfo.cs
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.sourcelink.json
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\refint\Shared.dll
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\Shared.pdb
+C:\Users\20102\Desktop\Route\C 42\G03\E-Commerce\Shared\obj\Release\net8.0\ref\Shared.dll
